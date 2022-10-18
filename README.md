@@ -9,7 +9,7 @@ pass_gen
 </p>
 <br/><br/>
 
-<h1 align="center">SH-UID V1</h1>
+<h1 align="center"> PASS_GEN </h1>
 <p align="center">      RANDOM PASSWORD GENARETOR </p>
 
 ## ***About PASS_GEN ***:
@@ -27,7 +27,6 @@ pkg install pip2
 pip2 install requests
 pip2 install mechanize
 git clone https://github.com/andrew-velox/pass_gen
-
 
 
 ```
