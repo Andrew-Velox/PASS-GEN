@@ -1,6 +1,6 @@
 pass_gen
 <p align="center">
-<a href="https://github.com/andrew-velox"><img title="D A R K C Y B E R " src="https://github-readme-stats.vercel.app/api?username=andrew-velox&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/andrew-velox"><img title="V E L O X " src="https://github-readme-stats.vercel.app/api?username=andrew-velox&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 
